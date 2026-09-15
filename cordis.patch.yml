@@ -1,0 +1,4 @@
+# dsh-engineer-tools bundle patch: inserts this plugin into a profile's layer stack.
+- insert:
+    - id: engineer-tools
+      name: 'dsh-engineer-tools'
